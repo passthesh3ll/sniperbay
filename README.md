@@ -4,7 +4,7 @@
 
 ## Description
 
-A telegram bot to scrape the auction close to expiry (~1h) from the computer section of ebay.it, and post them in a telegram channel, ready to be sniped/scalped.
+A telegram bot to scrape the close to expiry (~1h) auction from the computer section of ebay.it, and post them in a telegram channel, ready to be sniped/scalped.
 
 ## Dependencies
 
